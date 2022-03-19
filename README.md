@@ -6,7 +6,7 @@ Clone the Git repository to your `Devel` repository:
 
 ```bash
 $ cd ~/Devel
-$ git clone https://github.com/open-institute-of-technology/sm_python-basics.git`.
+$ git clone https://github.com/open-institute-of-technology/sm_python-basics.git.
 $ cd <repository-name>
 ```
 
