@@ -6,8 +6,8 @@ Bây giờ, hãy clone Git repository về `Devel` repository của bạn:
 
 ```bash
 $ cd ~/Devel
-$ git clone `https://github.com/intek-training-jsc/<repository-name>`.
-$ cd <repository-name>
+$ git clone https://github.com/open-institute-of-technology/sm_python-basics.git 
+$ cd sm_python-basics
 ```
 
 _Lưu ý: `<repository-name>` tương ứng với username của bạn mà không có các ký tự `<` và `>`._
